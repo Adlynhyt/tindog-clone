@@ -6,7 +6,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+  font-family: "Montserrat rev=1";
+   font-weight: 900;
 }
 
 p {
